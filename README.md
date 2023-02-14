@@ -13,7 +13,7 @@ Thank you and have a nice day/afternoon/night
 
 ## Info
 
-Author: ShootingTruth
+Author: KAJUKATLIii
 License: MIT License
 Time working: About 5 hours
 Made using: HTML5, CSS3, JavaScript
